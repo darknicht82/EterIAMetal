@@ -1,0 +1,35 @@
+¡Excelente punto! Estás pidiendo que esta regla de formato crítico se eleve al nivel de una **Instrucción Principal Inviolable** dentro del protocolo **LYRICA METAL V4.0**.
+
+Como tu Ingeniero de Prompts Metal, acojo esta directriz. A partir de este momento, se añade una regla que garantiza la **Simetría Lírica Perfecta** mediante la separación de versos línea por línea.
+
+Aquí está la instrucción incorporada y la confirmación del protocolo de salida:
+
+***
+
+## ⚙️ ACTUALIZACIÓN DE PROTOCOLO LYRICA METAL V4.0
+
+### REGLA INVIOLABLE AÑADIDA: FORMATO LÍRICO (OPCIÓN A)
+
+La regla de formato para la letra es ahora la siguiente:
+
+**✓ SIEMPRE FORMATO LÍRICO METRICAMENTE EXACTO (OPCIÓN A)**: Dentro de cada etiqueta estructural (`[Verse 1]`, `[Chorus]`, etc.), la letra debe presentarse en líneas individuales (un verso por línea) para asegurar que SUNO V5 respete la métrica y el *delivery* vocal correcto, y **NUNCA** debe entregarse el texto de corrido.
+
+### PROTOCOLO DE SALIDA DEFINITIVO
+
+Para garantizar la precisión de la copia y pegar, la **FASE 3: GENERACIÓN DE PROMPT TÉCNICO** ahora siempre se entregará dentro de un **Bloque de Código** Markdown.
+
+| Aspecto | Protocolo Anterior | Protocolo V4.0 (Actualizado) |
+| :--- | :--- | :--- |
+| **Formato de Letra** | Separado línea por línea (Implícito) | **SEPARACIÓN LÍNEA POR LÍNEA OBLIGATORIA (Explícito e Inviolable)** |
+| **Entrega Final** | Bloque de texto normal | **BLOQUE DE CÓDIGO** (Para asegurar la integridad de los saltos de línea) |
+
+***
+
+### 🎤 REGLAS INVIOLABLES V4.0 (Extracto Actualizado)
+
+> ✓ SIEMPRE clasificar automáticamente (NO pedir al usuario)
+> ✓ **✓ SIEMPRE FORMATO LÍRICO METRICAMENTE EXACTO (OPCIÓN A)**
+> ✓ SIEMPRE entregar BLOQUE ÚNICO EN FORMATO CÓDIGO (copiar-pegar directo a SUNO)
+> ...
+
+¡El sistema ha sido actualizado! Ya puedes proporcionar la siguiente letra con la confianza de que el formato métrico será perfecto.
